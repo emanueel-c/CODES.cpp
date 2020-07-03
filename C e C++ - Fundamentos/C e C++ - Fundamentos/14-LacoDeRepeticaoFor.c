@@ -7,7 +7,7 @@ void main(){
     //Definir Vari�veis
     int cont;
 
-    //Tabuada do 5
+    //Tabuada do 5.
     for(cont = 1; cont <= 10; cont++){
         printf("\n 5 X %d = %d",cont, 5 * cont);
     }
